@@ -20,3 +20,10 @@ Berthe Morisot
 * Au bal
 * Dans la salle a manger
 * Eugene Manet on the Isle of Wight
+
+Sorolla
+* Sewing the sail
+* Jardín de la casa Sorolla
+* Vendiendo melones
+* Patio de la casa Sorolla
+* Saltando a la comba, la granja
