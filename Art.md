@@ -27,3 +27,11 @@ Sorolla
 * Vendiendo melones
 * Patio de la casa Sorolla
 * Saltando a la comba, la granja
+
+Degas
+* La classe de danse
+
+Григорий Мясоедов
+* Осеннее утро
+* Страдная пора (Косцы)
+* Пристань в Ялте
