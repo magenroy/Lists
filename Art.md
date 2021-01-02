@@ -10,6 +10,7 @@ Renoir
 * Paysage de neige
 * Le jeu de balles
 * Jeunes filles dans un paysage
+* Sentier dans le bois
 
 Ivan Aivazovsky
 
