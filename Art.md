@@ -36,3 +36,6 @@ Degas
 * Осеннее утро
 * Страдная пора (Косцы)
 * Пристань в Ялте
+
+Montague Dawson
+* The Crescent Moon
