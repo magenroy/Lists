@@ -62,6 +62,6 @@ Kandinsky
 * Dominant curve
 * Ancient Russia
 
-Marion Kavanaugh
+Marion Kavanaugh Wachtel
 * Indian Summer
 * Mount Whitney
