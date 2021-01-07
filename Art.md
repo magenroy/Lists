@@ -39,3 +39,29 @@ Degas
 
 Montague Dawson
 * The Crescent Moon
+
+Mark Rothko
+* Untitled 1929
+* Untitled 1945 (https://www.wikiart.org/en/mark-rothko/all-works#!%23filterName:all-paintings-chronologically,resultType:masonry)
+
+Kandinsky
+* Composition VI
+* Composition VII
+* Improvisation (Deluge)
+* Painting with green center
+* Kochel: Waterfall I
+* Okhtyrka, autumn
+* Park of St. Cloud with horseman
+* Picture with white border
+* Small pleasures
+* Study for composition VII
+* Fugue
+* Improvisation: Gorge
+* Painting with red spot
+* Small dream in red
+* Dominant curve
+* Ancient Russia
+
+Marion Kavanaugh
+* Indian Summer
+* Mount Whitney
