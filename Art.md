@@ -42,7 +42,7 @@ Montague Dawson
 
 Mark Rothko
 * Untitled 1929
-* Untitled 1945 (https://www.wikiart.org/en/mark-rothko/all-works#!%23filterName:all-paintings-chronologically,resultType:masonry)
+* [Untitled 1945](https://www.wikiart.org/en/mark-rothko/not_detected_242121)
 
 Kandinsky
 * Composition VI
@@ -65,3 +65,14 @@ Kandinsky
 Marion Kavanaugh Wachtel
 * Indian Summer
 * Mount Whitney
+
+Manuel Fernández García
+* Vista de la Giralda desde un jardín sevillano
+* Patio sevillano
+* Vista desde el patio
+* Pueblo en primavera
+
+Manuel García y Rodriguez
+* Jardines del Alcazar
+* Patio interior
+* Patio con niños
