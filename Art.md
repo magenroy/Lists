@@ -21,6 +21,8 @@ Berthe Morisot
 * Au bal
 * Dans la salle a manger
 * Eugene Manet on the Isle of Wight
+* Le jardin à Bougival
+* Dans le parc
 
 Sorolla
 * Sewing the sail
@@ -76,3 +78,10 @@ Manuel García y Rodriguez
 * Jardines del Alcazar
 * Patio interior
 * Patio con niños
+* Pescando (1907)
+
+Hans Thoma
+* Forest meadow (1876)
+
+Mary Cassat
+* Woman Reading in a Garden
